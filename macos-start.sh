@@ -7,7 +7,7 @@
 
 # Install the tools you need to use
 #brew install neofetch
-#brew install annie, aria2, croc, duf
+#brew install annie aria2 croc duf dust speedtest-cli rclone gotop 
 #brew install neofetch
 #brew install neofetch
 #brew install neofetch
