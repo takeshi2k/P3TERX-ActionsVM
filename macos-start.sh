@@ -10,10 +10,7 @@
 #brew install annie aria2 croc duf dust speedtest-cli rclone gotop 
 #brew install neofetch
 #brew install neofetch
-#brew install neofetch
-#brew install neofetch
-#brew install neofetch
-#brew install neofetch
-#brew install neofetch
-#brew install neofetch
-#brew install neofetch
+#wget https://
+#wget https://
+#wget https://
+#wget https://
