@@ -10,9 +10,9 @@
 #sudo apt install -y neofetch
 #sudo apt install -y install annie aria2 croc duf dust speedtest-cli rclone gotop 
 #sudo apt install -y neofetch
-#sudo apt install -y neofetch
-#sudo apt install -y neofetch
-#sudo apt install -y neofetch
-#sudo apt install -y neofetch
+#wget https://
+#wget https://
+#wget https://
+#wget https://
 #sudo apt install -y neofetch
 #sudo apt install -y neofetch
