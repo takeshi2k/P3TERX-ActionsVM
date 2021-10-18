@@ -1,0 +1,10 @@
+repository 0:
+  type: MalwareBazaar
+  url: https://mb-api.abuse.ch/api/v1
+  api: ""
+  queryorder: 1
+repository 1:
+  type: CapeSandbox
+  url: https://www.capesandbox.com/apiv2
+  api: ""
+  queryorder: 2
