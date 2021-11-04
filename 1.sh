@@ -1,4 +1,4 @@
-apt install nmap curl arial2
+apt install nmap autossh sshpass curl arial2
 
 
 
